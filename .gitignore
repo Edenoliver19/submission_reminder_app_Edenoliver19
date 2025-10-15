@@ -1,2 +1,8 @@
 submission_reminder_Oliver/
 submission_reminder_Oliver/
+config/
+helpers/
+media/
+records/
+scripts/
+startup.sh
