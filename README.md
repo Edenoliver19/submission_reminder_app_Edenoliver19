@@ -61,6 +61,4 @@ records/submissions.csv → student submission data
 
 media/image.png → placeholder image
 
-License
 
-MIT
